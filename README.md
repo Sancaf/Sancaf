@@ -10,8 +10,6 @@
 <p align="left"> Proficient in React, Next.js, and CSS, I'm all about transforming designs into functional, user-centric experiences.
 I thrive on crafting seamless UX/UI designs that bridge creativity and functionality. My meticulous approach ensures every detail falls into place, achieving excellence in every project. From React (v18) to Next.js (v13), I wield the latest tools to create impactful solutions.</p>
 
-<br clear="both">
-
 <h2 align="left">I code with</h2>
 
 ###
