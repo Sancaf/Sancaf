@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Santiago Cafferata and I'm a front-end developer, from Argentina.</p>
+<p align="left">My name is Santiago and I'm a front-end developer, from Argentina.</p>
 
 ###
 
